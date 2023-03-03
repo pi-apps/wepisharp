@@ -1,0 +1,7 @@
+{
+  "modules": {
+    "WePi": {
+      "path": "WePi.abpmdl.json"
+    }
+  }
+}

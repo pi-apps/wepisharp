@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <Import Project="..\..\common.props" />
+
+    <PropertyGroup>
+        <TargetFramework>net7.0</TargetFramework>
+        <GenerateEmbeddedFilesManifest>true</GenerateEmbeddedFilesManifest>
+        <RootNamespace>WePi</RootNamespace>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <PackageReference Include="Volo.Abp.VirtualFileSystem" Version="7.0.2" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <None Remove="..\..\WePi.abpmdl.json" />
+      <EmbeddedResource Include="..\..\WePi.abpmdl.json" />
+    </ItemGroup>
+
+</Project>

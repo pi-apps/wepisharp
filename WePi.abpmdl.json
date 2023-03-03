@@ -1,0 +1,79 @@
+{
+  "folders": {
+    "items": {
+      "src": {},
+      "test": {},
+      "host": {}
+    }
+  },
+  "packages": {
+    "WePi.Domain.Shared": {
+      "path": "src/WePi.Domain.Shared/WePi.Domain.Shared.abppkg.json",
+      "folder": "src"
+    },
+    "WePi.Domain": {
+      "path": "src/WePi.Domain/WePi.Domain.abppkg.json",
+      "folder": "src"
+    },
+    "WePi.Application.Contracts": {
+      "path": "src/WePi.Application.Contracts/WePi.Application.Contracts.abppkg.json",
+      "folder": "src"
+    },
+    "WePi.Application": {
+      "path": "src/WePi.Application/WePi.Application.abppkg.json",
+      "folder": "src"
+    },
+    "WePi.EntityFrameworkCore": {
+      "path": "src/WePi.EntityFrameworkCore/WePi.EntityFrameworkCore.abppkg.json",
+      "folder": "src"
+    },
+    "WePi.MongoDB": {
+      "path": "src/WePi.MongoDB/WePi.MongoDB.abppkg.json",
+      "folder": "src"
+    },
+    "WePi.HttpApi": {
+      "path": "src/WePi.HttpApi/WePi.HttpApi.abppkg.json",
+      "folder": "src"
+    },
+    "WePi.HttpApi.Client": {
+      "path": "src/WePi.HttpApi.Client/WePi.HttpApi.Client.abppkg.json",
+      "folder": "src"
+    },
+    "WePi.TestBase": {
+      "path": "test/WePi.TestBase/WePi.TestBase.abppkg.json",
+      "folder": "test"
+    },
+    "WePi.EntityFrameworkCore.Tests": {
+      "path": "test/WePi.EntityFrameworkCore.Tests/WePi.EntityFrameworkCore.Tests.abppkg.json",
+      "folder": "test"
+    },
+    "WePi.MongoDB.Tests": {
+      "path": "test/WePi.MongoDB.Tests/WePi.MongoDB.Tests.abppkg.json",
+      "folder": "test"
+    },
+    "WePi.Domain.Tests": {
+      "path": "test/WePi.Domain.Tests/WePi.Domain.Tests.abppkg.json",
+      "folder": "test"
+    },
+    "WePi.Application.Tests": {
+      "path": "test/WePi.Application.Tests/WePi.Application.Tests.abppkg.json",
+      "folder": "test"
+    },
+    "WePi.HttpApi.Host": {
+      "path": "host/WePi.HttpApi.Host/WePi.HttpApi.Host.abppkg.json",
+      "folder": "host"
+    },
+    "WePi.HttpApi.Client.ConsoleTestApp": {
+      "path": "test/WePi.HttpApi.Client.ConsoleTestApp/WePi.HttpApi.Client.ConsoleTestApp.abppkg.json",
+      "folder": "test"
+    },
+    "WePi.AuthServer": {
+      "path": "host/WePi.AuthServer/WePi.AuthServer.abppkg.json",
+      "folder": "host"
+    },
+    "WePi.Host.Shared": {
+      "path": "host/WePi.Host.Shared/WePi.Host.Shared.abppkg.json",
+      "folder": "host"
+    }
+  }
+}

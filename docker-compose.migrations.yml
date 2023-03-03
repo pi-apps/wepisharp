@@ -1,0 +1,13 @@
+version: '3.4'
+
+services:
+  migrations:
+    build:
+      context: ../../
+      dockerfile: templates/service/database/Dockerfile
+    depends_on:
+      - sqlserver
+    environment:
+      - IdentityServer_DB=WePi_Identity
+      - WePi_DB=WePi_ModuleDb
+      - SA_PASSWORD=yourStrong(!)Password

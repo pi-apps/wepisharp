@@ -10,9 +10,9 @@ It is an easily self-hostable, decentralized alternative to Reddit and other lin
 
 Each [WePi](https://wepi.soical) server can set its own moderation policy; appointing site-wide admins, and community moderators to keep out the trolls, and foster a healthy, non-toxic environment where all can feel comfortable contributing.
 
-- Mainnet: https://wepi.soical
+- Mainnet: https://wepi.social
 
-- Testnet: https://testnet.wepi.soical
+- Testnet: https://testnet.wepi.social
 
 # Features
   - A suite of apps, fork from Lemmy, with more features.
